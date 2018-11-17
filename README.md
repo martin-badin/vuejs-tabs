@@ -1,4 +1,4 @@
-# vue-tabs
+# vuejs-tabs
 
 ![tabs](./tabs.gif)
 
