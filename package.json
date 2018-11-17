@@ -1,5 +1,5 @@
 {
-  "name": "@badin/vue-tabs",
+  "name": "vuejs-tabs",
   "version": "0.0.1",
   "main": "dist/Tabs.umd.js",
   "scripts": {
