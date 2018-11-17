@@ -1,5 +1,7 @@
 # vue-tabs
 
+![tabs](./tabs.gif)
+
 ## props
 
 ### TabsContainer
