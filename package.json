@@ -1,6 +1,6 @@
 {
   "name": "vuejs-tabs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/Tabs.umd.js",
   "scripts": {
     "serve": "vue-cli-service serve",

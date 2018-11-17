@@ -40,6 +40,7 @@ export default {
   &__tab {
     padding: 5px;
     text-align: center;
+    cursor: pointer;
 
     &--active {
     }
