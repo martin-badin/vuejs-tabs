@@ -1,7 +1,6 @@
 {
   "name": "@badin/vue-tabs",
   "version": "0.0.1",
-  "private": true,
   "main": "dist/Tabs.umd.js",
   "scripts": {
     "serve": "vue-cli-service serve",
